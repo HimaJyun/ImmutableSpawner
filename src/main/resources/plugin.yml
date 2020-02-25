@@ -1,0 +1,11 @@
+main: "jp.jyn.immutablespawner.ImmutableSpawner"
+name: "ImmutableSpawner"
+version: "${project.version}"
+website: "${project.url}"
+description: "${project.description}"
+author: "HimaJyun( https://jyn.jp/ )"
+api-version: "1.15"
+
+permissions:
+  immutablespawner.allow:
+    default: op
